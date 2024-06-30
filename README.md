@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! My name is Andres, and I specialize in Flutter mobile development.
 
-🌱 I’m currently **learning Go** with **Go Blueprint from Mat Ryer**. *I've been enjoying the book so far* 👌
-👯 I’m looking to collaborate on Go projects and/or Flutter apps. 
+- 🌱 I’m currently **learning Go** with **Go Blueprint from Mat Ryer**. *I've been enjoying the book so far* 👌
+- 👯 I’m looking to collaborate on Go projects and/or Flutter apps. 
 
 As you may see, I've been working on becoming a Full-stack Go/Flutter developer, and in the future, I'd like to learn Rust, too.
 
