@@ -19,6 +19,8 @@ Currently, I'm working on an API made in Go with Airtable + Firestore, Firebase 
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white&link=https://nodejs.org/" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript" />
+    <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white&link=https://developer.apple.com/swift/" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&link=https://kotlinlang.org/" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://www.docker.com/" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/" />
