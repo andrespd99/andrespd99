@@ -6,7 +6,7 @@ I'm **Software Manager Engineer** at [Avila Tek](https://avilatek.com/), a softw
 
 I've worked most of my career mainly as a frontend developer in Flutter, but I've also worked with Node.JS, Python, and JavaScript. Recently, I've been learning Go, and I'm excited to see where this journey will take me.
 
-Currently, I'm working on an API made in Go with Airtable + Firestore, Firebase Auth, and Render Cloud.
+Actively working with Go.
 
 ## Technologies and Tools
 
