@@ -9,9 +9,11 @@
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/" />
 </p>
 
-I'm a **Full-stack Software Engineer** with over **5 years of experience**. I started as a Mobile developer at Avila Tek, working with **Flutter** to create beautiful and complex applications for different clients. Then I advanced through my career and ascended to Manager of Mobile Department at Avila Tek in 2024. I imparted the Algorithms & Programming course in my university for 2 years, and the **Go Backend Developer** bootcamp in the Latam regional area in Mercado Libre, where we trained junior developers backend development in **Go**, REST APIs, relational databases and CI/CD practices.
+I’m a Full-stack Software Engineer with over 5 years of experience. I began my career as a Mobile Developer at Avila Tek, using Flutter to build beautiful and complex applications for a variety of clients. In 2024, I progressed to become the Manager of the Mobile Department at Avila Tek.
 
-In the present, I'm actively working as a Full-stack Engineer, mainly in Go and cloud computing. I'm soon to be certified as AWS Cloud Practitioner!
+I also taught the Algorithms & Programming course at my university for two years, and led the Go Backend Developer Bootcamp for the Latam region at Mercado Libre, where we trained junior developers in backend development with Go, REST APIs, relational databases, and CI/CD practices.
+
+Currently, I’m working as a Full-stack Engineer, focusing on Go and cloud computing—and I’m on track to earn my AWS Cloud Practitioner certification soon!
 
 <!--
 ## My career journey
