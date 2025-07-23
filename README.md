@@ -1,43 +1,20 @@
 # Howdy, I'm Andres! 👋
 
-I'm a **Full-stack Software Engineer** with **4+ years of experience** in **Flutter** and JavaScript, a former university teacher for 2 years, and **Go** enthusiast.
+I'm a **Full-stack Software Engineer** with over **5 years of experience**. I started as a Mobile developer at Avila Tek, working with **Flutter** to create beautiful and complex applications for different clients. Then I advanced through my career and ascended to Manager of Mobile Department at Avila Tek in 2024. I imparted the Algorithms & Programming course in my university for 2 years, and the **Go Backend Developer** bootcamp in the Latam regional area in Mercado Libre, where we trained junior developers backend development in **Go**, REST APIs, relational databases and CI/CD practices.
 
-I'm **Software Manager Engineer** at [Avila Tek](https://avilatek.com/), a software factory in Venezuela. I have worked on many projects with Flutter, with which I have launched +10 apps to stores.
+In the present, I'm actively working as a Full-stack Engineer, mainly in Go and cloud computing. I'm soon to be certified as AWS Cloud Practitioner!
 
-I've worked most of my career mainly as a frontend developer in Flutter, but I've also worked with Node.JS, Python, and JavaScript. Recently, I've been learning Go, and I'm excited to see where this journey will take me.
-
-Actively working with Go.
-
-## Technologies and Tools
-
-### Frameworks, Languages & Technologies
+### My main frameworks, languages & technologies
 
 <p>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-31B9F6?style=flat&logo=Flutter&logoColor=white&link=https://flutter.dev/" />
-    <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white&link=https://dart.dev/" />
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://go.dev/" />
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white&link=https://nodejs.org/" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript" />
-    <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white&link=https://developer.apple.com/swift/" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&link=https://kotlinlang.org/" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://www.docker.com/" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/HTML" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/CSS" />
 </p>
 
-### Productivity & Communication
-
-<p>
-    <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vsc&logoColor=white&link=https://code.visualstudio.com/" />
-    <img alt="warp" src="https://img.shields.io/badge/-warp-171717?style=flat&logo=warp&logoColor=00E5D4&link=https://warp.dev/" /> 
-    <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white&link=https://www.notion.so/" />
-    <img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com/" />
-    <img alt="Lark" src="https://img.shields.io/badge/-Lark-3370FF?style=flat&logo=lark&logoColor=white&link=https://lark.app/" />
-</p>
-
+<!--
 ## My career journey
 
 ### Manager Software Engineer - Avila Tek (2020 - Present)
@@ -55,6 +32,8 @@ I was a professor at [Universidad Metropolitana (UNIMET)](https://www.unimet.edu
 ### Intern - Takeoff, Inc. (2018 - 2020)
 
 I worked at [Takeoff, Inc.](https://www.takeoff.com/) from 2018 to 2020 as an intern, designing and developing a solution for troubleshooting and self-servicing for the operations team.
+
+-->
 
 ## Reach me at
 
