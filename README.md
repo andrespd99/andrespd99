@@ -1,8 +1,9 @@
 # Howdy, I'm Andres! 👋
 
 <p>
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-31B9F6?style=flat&logo=Flutter&logoColor=white&link=https://flutter.dev/" />
+    <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://go.dev/" />
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-31B9F6?style=flat&logo=Flutter&logoColor=white&link=https://flutter.dev/" />
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white&link=https://nodejs.org/" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://www.docker.com/" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/" />
