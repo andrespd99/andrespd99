@@ -1,11 +1,5 @@
 # Howdy, I'm Andres! 👋
 
-I'm a **Full-stack Software Engineer** with over **5 years of experience**. I started as a Mobile developer at Avila Tek, working with **Flutter** to create beautiful and complex applications for different clients. Then I advanced through my career and ascended to Manager of Mobile Department at Avila Tek in 2024. I imparted the Algorithms & Programming course in my university for 2 years, and the **Go Backend Developer** bootcamp in the Latam regional area in Mercado Libre, where we trained junior developers backend development in **Go**, REST APIs, relational databases and CI/CD practices.
-
-In the present, I'm actively working as a Full-stack Engineer, mainly in Go and cloud computing. I'm soon to be certified as AWS Cloud Practitioner!
-
-### My main frameworks, languages & technologies
-
 <p>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-31B9F6?style=flat&logo=Flutter&logoColor=white&link=https://flutter.dev/" />
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://go.dev/" />
@@ -13,6 +7,10 @@ In the present, I'm actively working as a Full-stack Engineer, mainly in Go and 
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://www.docker.com/" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/" />
 </p>
+
+I'm a **Full-stack Software Engineer** with over **5 years of experience**. I started as a Mobile developer at Avila Tek, working with **Flutter** to create beautiful and complex applications for different clients. Then I advanced through my career and ascended to Manager of Mobile Department at Avila Tek in 2024. I imparted the Algorithms & Programming course in my university for 2 years, and the **Go Backend Developer** bootcamp in the Latam regional area in Mercado Libre, where we trained junior developers backend development in **Go**, REST APIs, relational databases and CI/CD practices.
+
+In the present, I'm actively working as a Full-stack Engineer, mainly in Go and cloud computing. I'm soon to be certified as AWS Cloud Practitioner!
 
 <!--
 ## My career journey
