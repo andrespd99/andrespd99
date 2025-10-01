@@ -9,32 +9,20 @@
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/" />
 </p>
 
-I’m a Full-stack Software Engineer with over 5 years of experience. I began my career as a Mobile Developer at Avila Tek, using Flutter to build beautiful and complex applications for a variety of clients. In 2024, I progressed to become the Manager of the Mobile Department at Avila Tek.
+Full-stack Software Engineer specialized in Go & Flutter. 
 
-I also taught the Algorithms & Programming course at my university for two years, and led the Go Backend Developer Bootcamp for the Latam region at Mercado Libre, where we trained junior developers in backend development with Go, REST APIs, relational databases, and CI/CD practices.
+I'm studying some concepts aboud Cloud Engineering and DevOps and applying them on my work, including AWS cloud services, Prometheus-Grafana-Loki for observability (implemented a nice dashboard for our live services), OpenTofu for IaC (and loving it btw), designing SQL DB schemas for new projects, among other things.
 
-Currently, I’m working as a Full-stack Engineer, focusing on Go and cloud computing—and I’m on track to earn my AWS Cloud Practitioner certification soon!
+## What am I up to?
+1. I'm studying to get the AWS Cloud Practitioner certification at the end of 2025.
+2. I'm reading [The Art of PostgreSQL](https://theartofpostgresql.com/) from Dimitri Fountaine.
 
-<!--
-## My career journey
+## Planned to do
+1. Learn K8s (and maybe get certified?)
+2. Get the AWS Associated certification (not sure which one yet)
+3. Maaaaybe get the [OTel Certified Associate](https://www.cncf.io/training/certification/#otca)
+4. Keep growing on Golang.
 
-### Manager Software Engineer - Avila Tek (2020 - Present)
-
-I started my career as a **Software Engineer** at [Avila Tek](https://avilatek.com/) in 2021, where I started as a junior frontend developer. Since then I've climbed the ladder to become a senior software engineer and now the Engineering Manager of the Mobile development team.
-
-### Software Engineer - Reservado (2020 - 2021) 
-
-I worked at [Reservado](https://reservadoapp.com/) from 2020 to 2021. I developed some features for the admin panel app and designed some database features, including part of the restaurant's floor plan and table management. 
-
-### University Instructor - UNIMET (2022 - 2024) 
-
-I was a professor at [Universidad Metropolitana (UNIMET)](https://www.unimet.edu.ve/), my *alma mater*, where I taught the **Algorithms and Programming** course and prepared students of the Engineering School from the basics of programming to Object-Oriented Programming, file-system management, and systems design. 
-
-### Intern - Takeoff, Inc. (2018 - 2020)
-
-I worked at [Takeoff, Inc.](https://www.takeoff.com/) from 2018 to 2020 as an intern, designing and developing a solution for troubleshooting and self-servicing for the operations team.
-
--->
 
 ## Reach me at
 
