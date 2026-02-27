@@ -27,6 +27,6 @@ Cloud Engineering and DevOps with experience in AWS, Grafana, networking, and UN
 ## Reach me at
 
 <p>
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-eloy-pacheco-delgado-40466613a/" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-eloy/" />
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:andres.epacheco99@gmail.com" />
 </p>
