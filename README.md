@@ -9,9 +9,9 @@
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/" />
 </p> -->
 
-Full-stack Software Engineer specialized in Go & Flutter. 
+Full-stack Software Engineer that 💙 Go & Flutter. 
 
-I'm studying some concepts aboud Cloud Engineering and DevOps and applying them on my work, including AWS cloud services, Prometheus-Grafana-Loki for observability (implemented a nice dashboard for our live services), OpenTofu for IaC (and loving it btw), designing SQL DB schemas for new projects, among other things.
+Cloud Engineering and DevOps with experience in AWS, Grafana, networking, and UNIX-based server management.
 
 ## What am I up to?
 1. I'm studying to get the AWS Cloud Practitioner certification at the end of 2025.
