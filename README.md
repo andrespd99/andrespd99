@@ -13,6 +13,7 @@ Full-stack Software Engineer that 💙 Go & Flutter.
 
 Cloud Engineering and DevOps with experience in AWS, Grafana, networking, and UNIX-based server management.
 
+<!--
 ## What am I up to?
 1. I'm studying to get the AWS Cloud Practitioner certification at the end of 2025.
 2. I'm reading [The Art of PostgreSQL](https://theartofpostgresql.com/) from Dimitri Fountaine.
@@ -22,7 +23,7 @@ Cloud Engineering and DevOps with experience in AWS, Grafana, networking, and UN
 2. Get the AWS Associated certification (not sure which one yet)
 3. Maaaaybe get the [OTel Certified Associate](https://www.cncf.io/training/certification/#otca)
 4. Keep growing on Golang.
-
+-->
 
 ## Reach me at
 
